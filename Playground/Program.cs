@@ -7,8 +7,8 @@ namespace Playground
         static void Main(string[] args)
         {
             //LambdaX.Func();
-            //LinqX.BasicExpression();
-            ReflectionsX.CallAllFunction();
+            LinqX.CallAllFunction();
+            //ReflectionsX.CallAllFunction();
 
             Console.ReadKey();
         }
