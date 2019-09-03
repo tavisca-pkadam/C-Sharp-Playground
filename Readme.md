@@ -13,4 +13,5 @@
 
 ##### LINQ
 [LINQ samples for the Set Operators](https://linqsamples.com/linq-to-objects/set)
+
 [LINQ Syntax (Query Syntax & Method Syntax) - Tutlane](https://www.tutlane.com/tutorial/linq/linq-syntax-query-syntax-method-syntax#divlinqmethodsyn)
